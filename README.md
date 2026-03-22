@@ -2,11 +2,6 @@
 
 # 🎬 Audio-Video Emotion Summarization
 
-An end-to-end multimedia analysis pipeline that extracts emotional insights from videos by combining **audio, speech, and visual signals**, and generates structured summaries and reports.
-
-> 🎓 Developed as a B.Tech 3rd Year Course Project
-
----
 
 ## 🚀 Overview
 
